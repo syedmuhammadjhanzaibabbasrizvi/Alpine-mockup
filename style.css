@@ -1,0 +1,59 @@
+body {
+  font-family: sans-serif;
+  background-color: whitesmoke;
+}
+.ul1 {
+  list-style-type: none;
+  display: flex;
+  padding-left: 1630px;
+  margin: -98px;
+}
+.space2 {
+  padding-right: 23px;
+  font-size: 17px;
+}
+.text-decoration {
+  text-decoration: none;
+  color: black;
+}
+.ul2 {
+  display: flex;
+  padding-left: 1px;
+}
+.space2 {
+  padding-top: 65px;
+  margin-top: 32px;
+  margin-right: 10px;
+  color: black;
+}
+.banner {
+  position: relative;
+  text-align: center;
+  color: white;
+  padding-block-start: 10px;
+}
+.p1 {
+  position: absolute;
+  top: 53%;
+  left: 39%;
+}
+.p2 {
+  position: absolute;
+  top: 68%;
+  left: 28%;
+}
+.space {
+  padding-top: 8px;
+  list-style-type: none;
+  font-size: 19px;
+  text-decoration: none;
+  font-weight: initial;
+}
+.space-d {
+  text-decoration: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
